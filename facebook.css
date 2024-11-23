@@ -1,0 +1,159 @@
+*{padding: 0px;
+margin: 0px;}
+
+header
+{
+    background-color:#415e9b;
+    height:95px;
+    border-bottom:1px solid #133783;
+}
+.header-block{
+    width: 992px;
+    margin: 0 auto;
+    padding-top: 18px;
+
+}
+.logo
+{
+    width: 50%;
+    float: left;
+    
+}
+
+
+.logo img{
+    padding-top: 10px;
+    padding-bottom:25px;
+    
+    
+}
+.header-block label
+{
+    color: #fff;
+
+}           
+.email
+
+{
+    float: left;
+
+}
+.email label
+{
+    padding-bottom: 10px;
+
+}
+.email inpute[type="text"]
+{
+    height:29px;
+    width: 220px;
+    border: 1px solid#1d2a5b;
+}
+.password
+{
+    float: left;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    
+}
+.login-button
+{width: 73;
+    height: 30;
+    float: left;
+    
+    margin-left: 20px;
+    
+    
+}
+.password label
+{
+padding-bottom: 10px;
+margin: 15px;
+}
+.login-button input[type="submit"]
+{
+background:#4267b2 ;
+border: 1 px solid #29487d ;
+border-radius: 2px;
+color: #fff;
+height: 20px;
+width: 50px;
+}
+.password a
+{
+    padding-top: 10px;
+color: #9cb4d8;
+text-decoration: none;
+}
+.password inpute[type="password"]
+{
+    height:29px;
+    width: 220px;
+     border: 1px solid#1d2a5b;
+}
+.clearfix
+{
+    clear: both;
+}
+.content-block
+{
+    width: 992px;
+    margin: 0 auto;
+
+
+}
+.facebook-conect
+{
+margin-top:50px ;
+float: left;
+}
+.facebook-conect p
+{
+    color: #0e385f;
+    font-size: 25px;
+}
+.facebook-conect img{
+    margin-top: 10px;
+}
+.create-account
+{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    margin-left: 8.81px;
+    margin-top: 35px;
+    padding-bottom: 5px;
+    
+    
+}
+
+.content-block clearfix
+{
+    background: linear-gradient(#fff,#d9ddeb);
+    overflow: hidden;
+}
+.mobile input
+{
+    width: 424px;
+    height: 25px;
+    
+}
+.name input
+{
+    margin-right: 10px;
+}
+.reenter-mobile input
+{
+    width: 424px;
+    height: 25px;
+}
+.birthday  input
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sign-in
+{
+    background-color: #62a24f;
+    
+}
